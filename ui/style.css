@@ -16,7 +16,7 @@ body {
     font-weight: bold;
 }
 .colour{
-    text-decoration :red;
+    text-decoration-color: red;
 }
 
 .img-medium {
